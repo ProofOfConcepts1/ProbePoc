@@ -38,8 +38,6 @@ public class CSVDownload {
 			String userName = configFileReader.getUserName();
 			String password = configFileReader.getPassword();
 
-			
-
 			String NameoftheTargetCompany = null;
 			String ISIN = null;
 			String NamesOfthePromoters = null;
